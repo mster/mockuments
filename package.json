@@ -1,0 +1,24 @@
+{
+  "name": "mockuments",
+  "version": "0.0.0",
+  "description": "Mock JSON Documents with funny defaults.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mster/mockuments.git"
+  },
+  "keywords": [
+    "mock",
+    "json",
+    "documents"
+  ],
+  "author": "Michael Sterpka <michaelsterpka@gmail.com> (https://github.com/mster)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mster/mockuments/issues"
+  },
+  "homepage": "https://github.com/mster/mockuments#readme"
+}
