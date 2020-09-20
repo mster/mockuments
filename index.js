@@ -108,7 +108,7 @@ module.exports = function (count = 10, template = TEMPLATE) {
 
     const ret = []
     for (let i = 0; i < length; i++) {
-      ret.push(typeSwitch(...args))
+      ret.push(typeSwitch(args))
     }
     return ret
   }
