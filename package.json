@@ -1,6 +1,6 @@
 {
   "name": "mockuments",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mock JSON Documents with funny defaults.",
   "main": "index.js",
   "scripts": {

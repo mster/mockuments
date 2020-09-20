@@ -10,11 +10,11 @@ Formerly [Socuments](https://github.com/mster/socuments).
 
 ### **mockuments** ([ count, template ])
 
-- #### **count**: &lt;Number&gt;<br>the number of mockuments to generate, defaulting to 10.
+- **count**: &lt;Number&gt;<br>the number of mockuments to generate, defaulting to 10.
 
-- #### **template**: &lt;Object&gt;<br>a mockuments template. See [templates](#templates) for more information on creating a custom template.
+- **template**: &lt;Object&gt;<br>a mockuments template. See [templates](#templates) for more information on creating a custom template.
 
-- #### **returns**: &lt;Array&gt;<br>An array of mockuments.
+- **returns**: &lt;Array&gt;<br>An array of mockuments.
 
 ```js
 const mocks = require("mockuments")();
